@@ -7,13 +7,14 @@ Pewlett_Hackard hired me to help their HR Analyst Bobby create a database. Retir
 
 ### Deliverable 1: # of Retiring Employees by Title
 
-In the Data folder there are 3 csv created for this deliverable.
+- In the Data folder there are 3 csv created for this deliverable.
 	1. *retirement_titles.csv* was created to find which employees were born in right time frame for retirement, but this list has multiples because it includes all titles a person has had within the company.
 	2. *unique_titles.csv* aims to fix the issue with the previous table by filtering the list to include only the last title an employee had at the company.
 	3. *retiring_titles.csv* counts how many employees from each job title are retiring and thus creates a short list of which positions need to be filled in the near future.
 
 ### Deliverable 2: Employees Eligible for the Mentorship Program
-In the Data folder 1 csv was created for this deliverable. 
+
+- In the Data folder 1 csv was created for this deliverable. 
 	1. *mentorship_eligibility.csv* find current employees eligible for retirement because of their age. 
 
 ## Summary:
