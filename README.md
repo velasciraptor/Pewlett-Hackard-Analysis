@@ -5,12 +5,12 @@
 ## Results:
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
- Deliverable 1
- - 
- - 
- Deliverable 2
- - 
- - 
+### Deliverable 1
+ - A
+ - B
+### Deliverable 2
+ - A
+ - B
 
 ## Summary:
 
