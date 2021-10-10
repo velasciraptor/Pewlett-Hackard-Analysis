@@ -22,7 +22,7 @@ Pewlett_Hackard hired me to help their HR Analyst Bobby create a database. Retir
 Something important to note is that while *unique_titles.csv* found 90,398 employees about to retire, *mentorship_eligibility.csv* finds that only 1,549 of those are eligible for the mentorship program if they choose to join. This means that if EVERY eligible employee agrees to stay as part of the membership program each mentor would have 58 mentees. There are not enough eligible mentors, which is why I propose the following solution:
 
 
-The current eligibility for a mentor hinges on the birthdate being between Jan 1, 1965 and Dec 31, 1965. By allowing employees born just 2 months earlier on Nov 3, 1964 to join, the group the number of eligible mentors increases from 1,549 to 4,541 allowing for the mentor to mentee ratio to smooth out to 1:20. The query below return the employees eligible under the new conditions.
+The current eligibility for a mentor hinges on the birthdate being between Jan 1, 1965 and Dec 31, 1965. By allowing employees born just 2 months earlier on Nov 3, 1964 to join, the group the number of eligible mentors increases from 1,549 to 4,541 allowing for the mentor to mentee ratio to smooth out to 1:20. The query below returns the employees eligible under the new conditions.
 ```
 SELECT DISTINCT ON (e.emp_no) e.emp_no, 
 	e.first_name, 
