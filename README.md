@@ -40,8 +40,12 @@ WHERE (de.to_date = '9999-01-01') AND
 	(e.birth_date BETWEEN '1964-11-03' AND '1965-12-31')
 ORDER BY e.emp_no;
 ```
+______________________________________________________________________________________
+For reference, these are the positions that need filling:
 
-This solution is even more evident when we see what the count was for the eligible mentors was before and after those 2 months were added.
+![](vacant_positions.png)
+
+This need for this solution is even more evident when we see what the count was for the eligible mentors was before and after those 2 months were added.
 
 ![](count_me_image.png)
 
