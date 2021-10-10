@@ -45,7 +45,7 @@ For reference, these are the positions that need filling:
 
 ![](vacant_positions.png)
 
-This need for this solution is even more evident when we see what the count was for the eligible mentors was before and after those 2 months were added. Below are images that include the code for the queries and the results in tables.
+The need for this solution is even more evident when we see what the count was for the eligible mentors was before and after those 2 months were added. Below are images that include the code for the queries and the results in tables.
 
 ![](count_me_image.png)
 
