@@ -41,6 +41,9 @@ WHERE (de.to_date = '9999-01-01') AND
 ORDER BY e.emp_no;
 ```
 
-
+This solution is even more evident when we see what the count was for the eligible mentors was before and after those 2 months were added.
 
 ![](count_me_image.png)
+
+![](count_nme_image.png)
+
